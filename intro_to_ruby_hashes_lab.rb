@@ -1,4 +1,4 @@
-  def base_hash
+  def new_hash
   monopoly = {
     railroads: {}
   }
